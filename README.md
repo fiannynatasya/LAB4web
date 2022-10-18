@@ -2,3 +2,6 @@
 
 ## MEMBUAT BOX ELEMENT
 ![W1](https://user-images.githubusercontent.com/94009296/196402070-9212d849-c013-4e5f-bcc2-94db136ac209.png)
+
+PERUBAHAN KE-2 BOX ELEMENT
+![W2](https://user-images.githubusercontent.com/94009296/196402366-00aeaf01-5884-4f68-9199-9f611ab14e7e.png)
