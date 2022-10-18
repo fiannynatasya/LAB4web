@@ -8,3 +8,6 @@ PERUBAHAN KE-2 BOX ELEMENT
 
 PERUBAHAN KE-3 BOX ELEMENT
 ![W3](https://user-images.githubusercontent.com/94009296/196403140-51c8feff-f64a-495e-84a6-1be9064efe73.png)
+
+## MEMBUAT LAYOUT SEDERHANA
+![L1](https://user-images.githubusercontent.com/94009296/196403402-a2d716fb-e752-4e50-8b0b-1141e3e55875.png)
