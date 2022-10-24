@@ -23,3 +23,5 @@ PERUBAHAN KE-3 BOX ELEMENT
 
 ## PERUBAHAN 2"
 ![Screenshot (36)](https://user-images.githubusercontent.com/94009296/197607018-5372f5e5-4dae-4cab-90eb-168128360ab6.png)
+
+![Screenshot (37)](https://user-images.githubusercontent.com/94009296/197607237-39ea270a-5e24-4615-9968-2a98f1af3c4a.png)
