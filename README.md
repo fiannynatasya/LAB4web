@@ -21,8 +21,11 @@ PERUBAHAN KE-3 BOX ELEMENT
 ## MENGATUR LAYOUT MAIN DAN SIDEBAR ##
 ![Screenshot (35)](https://user-images.githubusercontent.com/94009296/197606734-2506d0b6-6af0-4bdb-bbf2-523d145e95a9.png)
 
-## PERUBAHAN 2"
+## PERUBAHAN 2 ##
 ![Screenshot (36)](https://user-images.githubusercontent.com/94009296/197607018-5372f5e5-4dae-4cab-90eb-168128360ab6.png)
 
-## Menambahkan Elemen lainnya pada Main Content ""
+## Menambahkan Elemen lainnya pada Main Content ##
 ![Screenshot (37)](https://user-images.githubusercontent.com/94009296/197607237-39ea270a-5e24-4615-9968-2a98f1af3c4a.png)
+
+## Menambahkan Content Artikel ##
+![Screenshot (38)](https://user-images.githubusercontent.com/94009296/197607634-45c308a9-f40f-4115-8257-3c3d309c41a7.png)
