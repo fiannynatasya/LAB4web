@@ -21,3 +21,5 @@ PERUBAHAN KE-3 BOX ELEMENT
 ## MENGATUR LAYOUT MAIN DAN SIDEBAR ##
 ![Screenshot (35)](https://user-images.githubusercontent.com/94009296/197606734-2506d0b6-6af0-4bdb-bbf2-523d145e95a9.png)
 
+## PERUBAHAN 2"
+![Screenshot (36)](https://user-images.githubusercontent.com/94009296/197607018-5372f5e5-4dae-4cab-90eb-168128360ab6.png)
