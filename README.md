@@ -13,4 +13,4 @@ PERUBAHAN KE-3 BOX ELEMENT
 ![L1](https://user-images.githubusercontent.com/94009296/196403402-a2d716fb-e752-4e50-8b0b-1141e3e55875.png)
 
 ## MEMBUAT NAVIGASI ##
-![Screenshot (30)](https://user-images.githubusercontent.com/94009296/197602004-9309f4d2-582d-4f5e-87c5-2fbba3eda178.png)
+![Screenshot (31)](https://user-images.githubusercontent.com/94009296/197605109-ecc1a4f2-e68f-4831-b8d0-537c7b31b10d.png)
