@@ -16,7 +16,7 @@ PERUBAHAN KE-3 BOX ELEMENT
 ![Screenshot (31)](https://user-images.githubusercontent.com/94009296/197605109-ecc1a4f2-e68f-4831-b8d0-537c7b31b10d.png)
 
 ## MEMBBUAT HERO PANEL ##
-![Screenshot (32)](https://user-images.githubusercontent.com/94009296/197605336-1f0b49f7-416f-45b3-a246-b4bd42424744.png)
+![Screenshot (33)](https://user-images.githubusercontent.com/94009296/197605630-786ad764-c8ab-495c-aac0-072b1b820dbf.png)
 
 ## MENGATUR LAYOUT MAIN DAN SIDEBAR ##
 ![Screenshot (33)](https://user-images.githubusercontent.com/94009296/197605630-786ad764-c8ab-495c-aac0-072b1b820dbf.png)
